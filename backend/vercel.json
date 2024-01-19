@@ -1,4 +1,4 @@
 {
   "version": 2,
-  "rewrites": [{ "source": "/api/v1/reservation", "destination": "/reservation" }]
+  "rewrites": [{ "source": "/api/v1/reservation", "destination": "https://mern-stack-restaurant-app-backend.vercel.app/" }]
 }
